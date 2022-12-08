@@ -4,7 +4,7 @@
 
 An Arduino project where a bus model uses input from ultrasonic sensors to stop in front of obstacles and open the doors simultaneously. Made for a carnival project at Delhi Public School, Megacity.
 
-![Picture of RC Bus, beside a laptop & electrical components](https://github.com/PolybitRockzz/dpsm-bus-brake-sensor/blob/main/picture.png?raw=true)
+![Picture of RC Bus, beside a laptop & electrical components](https://github.com/PolybitRockzz/dpsm-bus-brake-sensor/blob/main/picture.jpg?raw=true)
 
 ## Functions
 
